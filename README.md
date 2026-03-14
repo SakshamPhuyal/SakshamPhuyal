@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Phuyal</h1>
-<h3 align="center">A passionate fullstack developer and undergraduate CSIT student from Nepal.</h3>
-
+<h3 align="center">
+A Fullstack Developer | CSIT Undergraduate | Building modern web apps with React, Next.js, Node.js & Express.js
+</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sakshamphuyal&theme=algolia&no-frame=true&margin-w=10&row=1"/>
 </p>
