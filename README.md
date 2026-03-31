@@ -14,12 +14,17 @@
 
 ---
 
-## 🌐 Featured Project
+## 🌐 Featured Projects
 
 ### 🛍️ Sanskriti Bazaar  
-A modern e-commerce platform showcasing traditional Nepali products.
+A modern e-commerce platform showcasing traditional Nepali products.  
 
 🔗 Live: https://sanskrit-alpha.vercel.app/
+
+### 🌾 AgroSikshya  
+Smart Agriculture Platform helping farmers make data-driven decisions with crop recommendations, plant disease detection, expert consultations, and soil health improvement.  
+
+🔗 Live: https://byte-mavericks.vercel.app/
 
 ---
 
