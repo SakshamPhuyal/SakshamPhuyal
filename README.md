@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Saksham%20Phuyal&fontSize=40&fontColor=ffffff"/>
-</p>
+
 <h1 align="center">Hi 👋, I'm Saksham Phuyal</h1>
 
 <h3 align="center">
@@ -98,6 +96,11 @@ Smart Agriculture Platform helping farmers make data-driven decisions with crop 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
+<p align="left">
+  <a href="https://www.sakshamphuyal.com.np/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
