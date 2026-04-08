@@ -3,7 +3,7 @@
 
 <h3 align="center">
 🚀 Full Stack Developer | CSIT Undergraduate  
-💻 Building scalable & modern web applications  
+💻 Passionate about building scalable full-stack applications \
 </h3>
 
 ---
