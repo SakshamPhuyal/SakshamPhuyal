@@ -113,3 +113,6 @@ Smart Agriculture Platform helping farmers make data-driven decisions with crop 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sakshamphuyal&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshamphuyal)
