@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Saksham Phuyal</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | CSIT Undergraduate  
-💻 Passionate about building scalable full-stack applications
+ Full Stack Developer | CSIT Undergraduate  
+ Passionate about building scalable full-stack applications
 </h3>
 
 ---
