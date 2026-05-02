@@ -7,14 +7,12 @@
 </h3>
 
 
-## 🌐 Portfolio
-
-🌍 Personal Portfolio:  
-🔗 https://www.sakshamphuyal.com.np/
+Personal Portfolio:  
+https://www.sakshamphuyal.com.np/
 
 ---
 
-## 🌐 Featured Projects
+## Featured Projects
 
 ### 🛍️ Sanskriti Bazaar  
 A modern e-commerce platform showcasing traditional Nepali products.  
