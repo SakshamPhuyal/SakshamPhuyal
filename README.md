@@ -28,10 +28,10 @@ Smart Agriculture Platform helping farmers make data-driven decisions with crop 
 
 ## 🧑‍💻 About Me
 
-- 🎓 CSIT Undergraduate from Nepal  
-- 💡 Passionate about Full Stack Development  
-- ⚙️ Love building real-world scalable apps  
-- 🌱 Currently improving: **System Design & Advanced Backend**
+-  CSIT Undergraduate from Nepal  
+-  Passionate about Full Stack Development  
+-  Love building real-world scalable apps  
+-  Currently improving: **System Design & Advanced Backend**
 
 ---
 
