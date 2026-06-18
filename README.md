@@ -14,19 +14,19 @@ https://www.sakshamphuyal.com.np/
 
 ## Featured Projects
 
-### 🛍️ Sanskriti Bazaar  
+### Sanskriti Bazaar  
 A modern e-commerce platform showcasing traditional Nepali products.  
 
 🔗 Live: https://sanskrit-alpha.vercel.app/
 
-### 🌾 AgroSikshya  
+### AgroSikshya  
 Smart Agriculture Platform helping farmers make data-driven decisions with crop recommendations, plant disease detection, expert consultations, and soil health improvement.  
 
 🔗 Live: https://byte-mavericks.vercel.app/
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 -  CSIT Undergraduate from Nepal  
 -  Passionate about Full Stack Development  
@@ -35,7 +35,7 @@ Smart Agriculture Platform helping farmers make data-driven decisions with crop 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
